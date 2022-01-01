@@ -1,1 +1,1 @@
-https://github.com/BushuevIgor/resume.git
+https://BushuevIgor/github.io/resume
